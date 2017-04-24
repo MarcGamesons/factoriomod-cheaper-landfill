@@ -1,5 +1,6 @@
 Version 1.1.0 for Factorio 0.15.0
 + Updated the code to make sure the mod works with 0.15.0.
+
 Version 0.0.1 (aka 1.0.0) for Factorio 0.14.+ (tested on 0.14.23)
 + Changed the "Landfill" recipe, you now craft 20 instead of 1.
 + Made the "Landfill" item available from the beginning without research.
