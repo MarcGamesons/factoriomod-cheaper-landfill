@@ -1,9 +1,6 @@
-Version 1.1.0
-+ The mod now works with Factorio version 0.15.0
-
-Version 1.0.0
-
-+ This mod now works with Factorio version 0.14.22
-+ Changed the recipe of landfill to yield 20 tiles per craft for the same amount of resources. (20 tiles for 20 stone)
-+ Changed to semantic versioning. (Read more about it on http://semver.org)
-+ Uploaded source of the mod to github.com
+Version 1.1.0 for Factorio 0.15.0
++ Updated the code to make sure the mod works with 0.15.0.
+Version 0.0.1 (aka 1.0.0) for Factorio 0.14.+ (tested on 0.14.23)
++ Changed the "Landfill" recipe, you now craft 20 instead of 1.
++ Made the "Landfill" item available from the beginning without research.
++ Source code can now be found on [GitHub](https://github.com/MarcGamesons/factoriomod-cheaper-landfill).
