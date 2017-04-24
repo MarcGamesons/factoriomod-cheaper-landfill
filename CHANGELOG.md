@@ -1,3 +1,6 @@
+Version 1.1.0
++ The mod now works with Factorio version 0.15.0
+
 Version 1.0.0
 
 + This mod now works with Factorio version 0.14.22
