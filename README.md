@@ -1,5 +1,5 @@
-# Find out more about this mod on https://mods.factorio.com/mods/MarcGamesons/cheaper_landfill
+# About
 
-This is a mod for the game Factorio. (https://www.factorio.com/)
+This is a mod for the game [Factorio](https://www.factorio.com/).
 
-It changes the amount of tiles the landfill recipe creates. This makes the recipe cheaper and gives you more tiles at once.
+You can find out more about it on [mods.factorio.com](https://mods.factorio.com/mods/MarcGamesons/cheaper_landfill).
