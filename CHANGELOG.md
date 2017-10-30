@@ -1,3 +1,6 @@
+Version 1.3.0 for Factorio 0.15.x release
++ Changed the Landfill technology research to require a very low amount of resource and time cost.
+
 Version 1.2.0 for Factorio 0.15.x release
 + Mod tested with stable branch.
 
