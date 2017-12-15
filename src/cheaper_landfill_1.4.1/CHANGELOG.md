@@ -1,3 +1,6 @@
+Version 1.4.1 for Factorio 0.16.x experimental
++ Fixed a critical Error.
+
 Version 1.4.0 for Factorio 0.16.x experimental
 + Updated the mod to work with 0.16.x experimental.
 
