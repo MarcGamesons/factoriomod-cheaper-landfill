@@ -1,0 +1,19 @@
+# Version 1.1.1 for Factorio 0.15.x Experimental
+## Changes
++ Mod successfully tested with the latest release.
++ Did some internal tweaks.
+
+# Version 1.1.0 for Factorio 0.15.x
+## New Features
++ Updated the code of the mod to make it work with 0.15.
+
+## Changes
++ Mod successfully tested with the latest release.
+
+# Version 0.0.1 (aka 1.0.0) for Factorio 0.14.x
+## Note
+This was the first version of the mod. I am sorry, but I don't remember exactly which versions it works with. I only remember that it worked with 0.14.23.
+## Changes
++ Changed the Landfill recipe, you now craft 20 instead of 1 tiles.
++ Changed the availability of the Landfill technology, the item is now available without research.
++ The source code can now be found on [GitHub](https://github.com/MarcGamesons/factoriomod-cheaper-landfill).
