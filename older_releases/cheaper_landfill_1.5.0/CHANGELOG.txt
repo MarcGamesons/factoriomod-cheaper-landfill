@@ -5,17 +5,7 @@
 
 ---
 
-## [Unreleased]
-
----
-
-## [1.6.0] for Factorio 0.16 stable - 2018-04-04
-### Added
-+ Added Support for landfills added by other mods. Thanks to [Jelmergu](https://github.com/Jelmergu) for their contribution.
-
----
-
-## [1.5.0] for Factorio 0.16 stable - 2018-03-29
+## [1.5.0] for Factorio 0.16.x Stable - 2018-03-29
 ### Added
 + Added a setting to enable or disable the mod.
 + Added a setting to change the amount of stone that is needed to craft landfill.
@@ -23,7 +13,7 @@
 
 ---
 
-## [1.4.1] for Factorio 0.16 experimental - 2017-12-23
+## [1.4.1] for Factorio 0.16.x Experimental - 2017-12-23
 ### Changed
 + Changed the license from [UNLICENSE](https://unlicense.org/) to [MIT License](https://opensource.org/licenses/MIT).
 
@@ -32,7 +22,7 @@
 
 ---
 
-## [1.4.0] for Factorio 0.16 experimental - 2017-12-15
+## [1.4.0] for Factorio 0.16.x Experimental - 2017-12-15
 ### Changed
 + Updated the mod to game version 0.16 experimental.
 

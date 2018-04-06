@@ -1,2 +1,2 @@
-*.zip
-src/note.md
+latest_release/note.md
+latest_release/*.zip
