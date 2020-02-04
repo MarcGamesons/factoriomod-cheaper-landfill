@@ -1,11 +1,13 @@
 {
   "name": "cheaper_landfill",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "title": "Cheaper Landfill",
   "author": "MarcGamesons and GitHub contributors",
   "contact": "Open a new issue on GitHub or go to the forum topic.",
   "homepage": "https://github.com/MarcGamesons/factoriomod-cheaper-landfill/",
   "description": "By default you craft 20 landfill tiles. You no longer have to research the landfill technology.",
-  "factorio_version": "0.17",
-  "dependencies": ["base >= 0.17.0"]
+  "factorio_version": "0.18",
+  "dependencies": [
+    "base >= 0.18.0"
+  ]
 }

@@ -9,6 +9,12 @@
 
 ---
 
+## [1.8.0] for Factorio 0.18 Experimental - 2020-02-04
+### Changed
++ Updated the mod to game version 0.18 experimental.
+
+---
+
 ## [1.7.0] for Factorio 0.17 Experimental - 2019-03-03
 ### Changed
 + Updated the mod to game version 0.17 experimental.
