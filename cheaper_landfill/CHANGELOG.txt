@@ -1,83 +1,70 @@
-# Changelog
-+ [Cheaper Landfill](https://github.com/MarcGamesons/factoriomod-cheaper-landfill) is a [Factorio](https://www.factorio.com/) mod made by MarcGamesons with the help of GitHub Contributors, it is released under the [MIT License](https://opensource.org/licenses/MIT).
-+ This changelog tries to follow the suggestions made on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
-+ This mod tries to make use of [semantic versioning](https://semver.org/).
-
----
-
-## [Unreleased]
-
----
-
-## [1.8.0] for Factorio 0.18 Experimental - 2020-02-04
-### Changed
-+ Updated the mod to game version 0.18 experimental.
-
----
-
-## [1.7.0] for Factorio 0.17 Experimental - 2019-03-03
-### Changed
-+ Updated the mod to game version 0.17 experimental.
-
----
-
-## [1.6.0] for Factorio 0.16 Stable - 2018-04-04
-### Added
-+ Added Support for landfills added by other mods. Thanks to [Jelmergu](https://github.com/Jelmergu) for their contribution.
-
----
-
-## [1.5.0] for Factorio 0.16 Stable - 2018-03-29
-### Added
-+ Added a setting to enable or disable the mod.
-+ Added a setting to change the amount of stone that is needed to craft landfill.
-+ Added a setting to change the amount of landfills that are crafted.
-
----
-
-## [1.4.1] for Factorio 0.16 Experimental - 2017-12-23
-### Changed
-+ Changed the license from [UNLICENSE](https://unlicense.org/) to [MIT License](https://opensource.org/licenses/MIT).
-
-### Fixed
-+ The missing icon_size string by adding it to technologies.lua.
-
----
-
-## [1.4.0] for Factorio 0.16 Experimental - 2017-12-15
-### Changed
-+ Updated the mod to game version 0.16 experimental.
-
----
-
-## [1.3.0] for Factorio 0.15 stable - 2017-10-28
-### Added
-+ Lowered the resource cost for the landfill research to one science pack.
-
----
-
-## [1.2.0] for Factorio 0.15 stable - 2017-07-27
-### Changed
-+ Updated the mod to work with Factorio 0.15 stable.
-
----
-
-## [1.1.1] for Factorio 0.15 experimental - 2017-04-29
-### Changed
-+ The mod is now released under the [UNLICENSE](https://unlicense.org/).
-+ Did some internal tweaks.
-
----
-
-## [1.1.0] for Factorio 0.15 experimental - 2017-04-26
-### Changed
-+ Updated the mod to game version 0.15 experimental.
-
----
-
-## [0.0.1] for Factorio 0.14 stable - 2017-03-13
-This was the first version of the mod. It was tested with Factorio 0.14.22.
-### Added
-+ You now craft 20 instead of 1 landfills.
-+ Made the recipe available without the need to research it.
-+ The source code can now be found on [GitHub](https://github.com/MarcGamesons/factoriomod-cheaper-landfill).
+---------------------------------------------------------------------------------------------------
+Version: 1.8.1
+Date: 2020.02.07
+  Changes:
+    - Changed the format of the changelog to be compatible with the in game mod manager.
+  Additions:
+    - Added a thumbnail.
+---------------------------------------------------------------------------------------------------
+Version: 1.8.0
+Date: 2020.02.04
+  Changes:
+    - Updated the mod to game version 0.18 experimental.
+---------------------------------------------------------------------------------------------------
+Version: 1.7.0
+Date: 2019.03.03
+  Changes:
+    - Updated the mod to game version 0.17 experimental.
+---------------------------------------------------------------------------------------------------
+Version: 1.6.0
+Date: 2018.04.04
+  Additions:
+    - Added support for other mods that add landfills to the game (Thanks to Jelmergu https://github.com/Jelmergu).
+---------------------------------------------------------------------------------------------------
+Version: 1.5.0
+Date: 2018.03.29
+  Additions:
+    - Added a setting to enable or disable the mod.
+    - Added a setting to change the amount of stone that the landfill recipe requires.
+    - Added a setting to change the amount landfills that will be crafted.
+---------------------------------------------------------------------------------------------------
+Version: 1.4.1
+Date: 2017.12.23
+  Changes:
+    - Changed the license to MIT.
+  Fixes:
+    - Fixed a bug in technologies.lua.
+---------------------------------------------------------------------------------------------------
+Version: 1.4.0
+Date: 2017.12.15
+  Changes:
+    - Updated the mod to game version 0.16 experimental.
+---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+Date: 2017.10.28
+  Changes:
+    - Changed the resource cost for the landfill research to one science pack.
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2017.07.27
+  Changes:
+    - Updated the mod to game version 0.15 stable.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2017.04.29
+  Changes:
+    - Changed license to UNLICENSE.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2017.04.26
+  Changes:
+    - Updated the mod to game version 0.15 experimental.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2017.03.13
+  About:
+    - This was the first version of the mod. It was tested with Factorio 0.14.22.
+  Additions:
+    - You now craft 20 instead of 1 landfill tiles.
+    - Made the recipe available without the need to research it.
+    - The source code was released on GitHub (https://github.com/MarcGamesons/factoriomod-cheaper-landfill).
