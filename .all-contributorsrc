@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "MarcGamesons",
+      "name": "Marc",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7329657?v=4",
+      "profile": "https://twitter.com/marcgamesons",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "factoriomod-cheaper-landfill",
+  "projectOwner": "MarcGamesons",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
