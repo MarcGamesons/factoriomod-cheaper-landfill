@@ -22,6 +22,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ChaoticWeg",
+      "name": "Shawn Lutch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8321710?v=4",
+      "profile": "https://chaoticweg.cc/",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
