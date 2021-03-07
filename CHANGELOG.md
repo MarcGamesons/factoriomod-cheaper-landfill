@@ -9,6 +9,12 @@
 
 ---
 
+## [1.9.0] for Factorio 1.1 Stable - 2021-03-07
+### Changed
++ Updated the mod to game version 1.1 stable.
+
+---
+
 ## [1.8.0] for Factorio 0.18 Experimental - 2020-02-04
 ### Changed
 + Updated the mod to game version 0.18 experimental.
