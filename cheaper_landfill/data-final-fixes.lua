@@ -11,6 +11,7 @@ Support: https://forums.factorio.com/viewtopic.php?f=93&t=44991
 --[[
 This file adds support for other mods that add a landfill recipe.
 These changes were contributed by Jelmergu https://github.com/Jelmergu.
+With fixes by JoeC7756 https://github.com/JoeC7756.
 --]]
 
 for _, r in pairs(data.raw.recipe) do
