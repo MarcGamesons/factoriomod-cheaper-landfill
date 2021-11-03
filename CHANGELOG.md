@@ -9,7 +9,7 @@
 
 ---
 
-## [1.9.1]
+## [1.9.1] for Factorio 1.1.42 Stable - 2021-11-02
 
 ### Changed
 + Fix bug caused by undefined results variable [Author: JoeC7756](https://github.com/MarcGamesons/factoriomod-cheaper-landfill/commits?author=JoeC7756)
